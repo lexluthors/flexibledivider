@@ -1,0 +1,3 @@
+include ':flexibledivider'
+include ':app'
+rootProject.name = "flexibledivider"
